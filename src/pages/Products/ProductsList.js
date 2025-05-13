@@ -28,10 +28,10 @@ export const ProductsList = () => {
       
     }
     fetchProducts();  
-  }, [searchTerm]); //esLint-disable-Line
+  }, [searchTerm]); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
-    <main>
+    <main> 
         <section className="my-5">
           <div className="my-5 flex justify-between">
             <span className="text-2xl font-semibold dark:text-slate-100 mb-5">All eBooks ({productList.length})</span>

@@ -10,7 +10,7 @@ export async function getUser() {
         }
     });
     if(!response.ok) {
-        throw{ message: response.statusText, status: response.status };
+        throw{ message: response.statusText, status: response.status };  // eslint-disable-line
     }
     const data = await response.json();
     return data;
@@ -28,7 +28,7 @@ export async function getUsersOrders() {
         }
     });
     if(!response.ok) {
-        throw{ message: response.statusText, status: response.status };
+        throw{ message: response.statusText, status: response.status };  // eslint-disable-line
     }
     const data = await response.json();
     return data;
@@ -36,7 +36,7 @@ export async function getUsersOrders() {
 
 export async function createOrder(user, cartList, total) {
     const token = JSON.parse(sessionStorage.getItem("token"))
-    const ebid = JSON.parse(sessionStorage.getItem("ebid"))
+    // const ebid = JSON.parse(sessionStorage.getItem("ebid"))
 
     const order = {
         cartList: cartList,
@@ -55,7 +55,7 @@ export async function createOrder(user, cartList, total) {
         body: JSON.stringify(order)
     })
     if(!response.ok) {
-        throw{ message: response.statusText, status: response.status };
+        throw{ message: response.statusText, status: response.status };  // eslint-disable-line
     }
     const data = await response.json();
     return data;

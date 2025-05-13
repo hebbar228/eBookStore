@@ -12,7 +12,7 @@ export async function login(authDetail) {
       //  data.accessToken ? navigate("/products") : toast.error(data)
       // console.log(data);
       if(!response.ok) {
-        throw{ message: response.statusText, status: response.status };
+        throw{ message: response.statusText, status: response.status };  // eslint-disable-line
       }
       if(data.accessToken) {
         sessionStorage.setItem("token", JSON.stringify(data.accessToken))
@@ -36,7 +36,7 @@ export async function register(authDetail) {
       //  data.accessToken ? navigate("/products") : toast.error(data)
       // console.log(data);
       if(!response.ok) {
-        throw{ message: response.statusText, status: response.status };
+        throw{ message: response.statusText, status: response.status };  // eslint-disable-line
       }
       if(data.accessToken) {
         sessionStorage.setItem("token", JSON.stringify(data.accessToken))
