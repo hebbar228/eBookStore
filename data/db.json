@@ -1,0 +1,301 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Basics To Advanced In React",
+      "overview": "A comprehensive journey from the fundamentals of React to advanced patterns and performance optimizations.",
+      "long_description": "This module covers everything from setting up your first React application to mastering advanced concepts like context, hooks, lazy loading, and performance tuning. You’ll explore real-world scenarios including state management with Redux, routing, and testing strategies. By the end, you'll be equipped to build robust, production-grade React applications.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Django Framework for Beginners",
+      "overview": "A beginner-friendly introduction to web development using Django, the popular Python-based web framework. ",
+      "long_description": "Start with the basics of Python web development and dive into Django’s powerful tools for building scalable, secure web applications. You’ll learn to create dynamic websites, work with databases using ORM, manage user authentication, and deploy your app. This module is perfect for those new to web development or transitioning from frontend to full-stack.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "The Future of Design Systems",
+      "overview": "An exploration of evolving design systems and their role in bridging design and development. ",
+      "long_description": "This topic discusses how modern design systems are evolving to support consistency, scalability, and accessibility across digital products. You’ll learn about tokenization, cross-platform theming, component standardization, and real-time collaboration tools. Discover how design systems will shape the next generation of UI/UX development workflows. ",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "A full-spectrum guide to backend development using modern stacks and best practices. ",
+      "long_description": "Covering everything from databases and REST APIs to authentication and deployment, this module guides you through backend fundamentals and advanced topics. Learn Node.js, Django, database modeling, caching, security, and microservices architecture. You’ll build and scale APIs and understand how to manage backend infrastructure effectively.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Build a Blockchain from Scratch in Go",
+      "overview": "Hands-on guide to implementing a basic blockchain using Go programming language.",
+      "long_description": "Learn the fundamentals of blockchain by building your own from the ground up. You’ll understand how blocks, hashing, proof-of-work, and consensus algorithms work. This module emphasizes Go’s concurrency model and system-level features to create a simple, yet powerful, blockchain prototype.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "A roadmap to mastering frontend development through project-based learning.",
+      "long_description": "Speed up your frontend development skills by tackling real-world projects with modern tools like React, Tailwind, TypeScript, and Webpack. You’ll learn responsive design, component-driven development, performance optimization, and testing, all while building portfolio-worthy projects.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "Master the Code Review",
+      "overview": "Improve your code quality and collaboration through effective code review practices.",
+      "long_description": "This topic explores how to conduct and respond to code reviews constructively. You’ll learn best practices for writing maintainable code, using version control efficiently, spotting anti-patterns, and improving team communication. Whether reviewing or being reviewed, mastering this skill leads to better software and stronger teams.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shravan",
+      "overview": "All-in-one JavaScript course for beginners to experienced developers.",
+      "long_description": "Start from JavaScript fundamentals like variables, loops, and functions, and move up to advanced topics like closures, async/await, promises, and event loops. This topic provides a solid grounding in JavaScript with practical examples, interactive challenges, and real-world applications in web development.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "Python Deep Dive With Projects",
+      "overview": "An in-depth look into Python's core concepts, paired with hands-on projects.",
+      "long_description": "Master Python by exploring its deeper capabilities such as generators, decorators, data structures, and OOP. Apply your knowledge through projects like web scraping, data analysis, and web apps. Ideal for developers looking to sharpen their skills or transition into data science, automation, or web development.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10010,
+      "name": "Mastering Software Technique",
+      "overview": "A focus on writing clean, efficient, and maintainable code across any language or stack.",
+      "long_description": "This topic dives into software design principles, algorithms, testing, and performance optimization. You'll cover SOLID principles, code smells, refactoring techniques, and efficient use of design patterns. Ideal for any developer aiming to elevate their code quality and engineering mindset.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "Web Development Foundation",
+      "overview": "Start your web development journey with a solid understanding of frontend and backend basics.",
+      "long_description": "Learn the core building blocks of web development — HTML, CSS, JavaScript, HTTP, and basic backend concepts. Build interactive websites and understand how client-server communication works. This foundation prepares you for both frontend and full-stack specializations.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10011.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10012,
+      "name": "Mastering Git and GitHub - A Practical Guide",
+      "overview": "Become proficient in Git version control and GitHub collaboration.",
+      "long_description": "From basic commits and branches to advanced rebasing, conflict resolution, and CI/CD integrations — this guide covers it all. Learn how to manage projects, collaborate in teams, and contribute to open source. You’ll also explore GitHub Actions, pull request workflows, and best practices.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10012.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "Everything About React v16",
+      "overview": "A deep dive into React version 16’s features and improvements.",
+      "long_description": "Explore React v16’s major updates including error boundaries, portals, fragments, context API improvements, and the new fiber architecture. Understand how these features improve performance, developer experience, and flexibility. This module is crucial for upgrading legacy apps or learning historical context before modern React.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "Diving Deep With Python 2.7",
+      "overview": "Explore the legacy version of Python still used in many older systems.",
+      "long_description": "Despite being deprecated, Python 2.7 remains in many legacy systems. This module explores its syntax, differences from Python 3, and migration tips. Learn how to write and maintain legacy code responsibly and prepare for gradual upgrades in production environments.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "Kickstart Your UI Design Career",
+      "overview": "Begin your journey into UI design with tools, techniques, and workflows.",
+      "long_description": "Learn the basics of layout, typography, color theory, design tools (Figma, Sketch), and user-centered design. Build wireframes, prototypes, and polished interfaces. This topic also covers career paths, freelancing tips, and building a strong portfolio to land your first UI/UX role.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "A full-spectrum guide to backend development using modern stacks and best practices. ",
+      "long_description": "Covering everything from databases and REST APIs to authentication and deployment, this module guides you through backend fundamentals and advanced topics. Learn Node.js, Django, database modeling, caching, security, and microservices architecture. You’ll build and scale APIs and understand how to manage backend infrastructure effectively.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "A roadmap to mastering frontend development through project-based learning.",
+      "long_description": "Speed up your frontend development skills by tackling real-world projects with modern tools like React, Tailwind, TypeScript, and Webpack. You’ll learn responsive design, component-driven development, performance optimization, and testing, all while building portfolio-worthy projects.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shravan",
+      "overview": "All-in-one JavaScript course for beginners to experienced developers.",
+      "long_description": "Start from JavaScript fundamentals like variables, loops, and functions, and move up to advanced topics like closures, async/await, promises, and event loops. This topic provides a solid grounding in JavaScript with practical examples, interactive challenges, and real-world applications in web development.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10007,
+          "name": "Master the Code Review",
+          "overview": "Improve your code quality and collaboration through effective code review practices.",
+          "long_description": "This topic explores how to conduct and respond to code reviews constructively. You’ll learn best practices for writing maintainable code, using version control efficiently, spotting anti-patterns, and improving team communication. Whether reviewing or being reviewed, mastering this skill leads to better software and stronger teams.",
+          "price": 19,
+          "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10007.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 2,
+          "best_seller": false
+        },
+        {
+          "id": 10010,
+          "name": "Mastering Software Technique",
+          "overview": "A focus on writing clean, efficient, and maintainable code across any language or stack.",
+          "long_description": "This topic dives into software design principles, algorithms, testing, and performance optimization. You'll cover SOLID principles, code smells, refactoring techniques, and efficient use of design patterns. Ideal for any developer aiming to elevate their code quality and engineering mindset.",
+          "price": 19,
+          "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10010.avif",
+          "rating": 4,
+          "in_stock": true,
+          "size": 1,
+          "best_seller": false
+        },
+        {
+          "id": 10003,
+          "name": "The Future of Design Systems",
+          "overview": "An exploration of evolving design systems and their role in bridging design and development. ",
+          "long_description": "This topic discusses how modern design systems are evolving to support consistency, scalability, and accessibility across digital products. You’ll learn about tokenization, cross-platform theming, component standardization, and real-time collaboration tools. Discover how design systems will shape the next generation of UI/UX development workflows. ",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10003.avif",
+          "rating": 3,
+          "in_stock": true,
+          "size": 1,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 67,
+      "quantity": 3,
+      "user": {
+        "name": "Shravan Hebbar",
+        "email": "shravanhebbar228@gmail.com",
+        "id": 1
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "shravanhebbar228@gmail.com",
+      "password": "$2a$10$S7tYLuznzyy8A3q2Ogv2i.uBsBhYDL/JMvltvCJyU7sWLfzLKPGpW",
+      "name": "Shravan Hebbar",
+      "id": 1
+    }
+  ]
+}
